@@ -1,0 +1,6 @@
+gymnasium==0.29.1
+pygame
+torch
+matplotlib
+opencv-python
+numpy
